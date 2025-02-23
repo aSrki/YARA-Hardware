@@ -16,7 +16,7 @@ Here I will show two main assemblies that where designed in such a way for 3D pr
  <img src="https://github.com/aSrki/YARA-Hardware/blob/main/FirstJointSimplified.png?raw=true" width="400"/>
 </p>
 
-First joint assembly 
+First joint assembly is designed using 3D printer rollers as an axial bearing. It is certainly not a perfect solution, but it works well and it is a lot cheaper and a lot more accessible than buying an axial bearing. Two large ball bearings are used to reduce radial forces to a minimum. Electronics are in the base of the robot, and are further descibed in firmware submodule.
 
 
 # Cycloidal reductor assembly
@@ -24,4 +24,4 @@ First joint assembly
  <img src="https://github.com/aSrki/YARA-Hardware/blob/main/CycloidalDrive.png?raw=true" width="600"/>
 </p>
 
-Cycloidal reductor assembly
+Cycloidal reductor was chosen because of its small size and relatively large reduction radtio. It is easy to 3d print and it works well enough. Reductor, as well as robot, was drawn in OnShape. Reductor was designed using `Cycloidal drive` extension, and it was possible to print it without need to change any of the dimensions.
