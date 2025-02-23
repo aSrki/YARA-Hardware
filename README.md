@@ -13,5 +13,7 @@ Here I will show two main assemblies that where designed in such a way for 3D pr
 
 # First joint assembly
 <p align="center">
- <img src="https://github.com/aSrki/YARA-Hardware/blob/main/FirstJointSimplified.png?raw=true" width="100"/>
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/FirstJointSimplified.png?raw=true" width="400"/>
+</p>
+
 First joint assembly 
