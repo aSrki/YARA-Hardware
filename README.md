@@ -17,3 +17,11 @@ Here I will show two main assemblies that where designed in such a way for 3D pr
 </p>
 
 First joint assembly 
+
+
+# Cycloidal reductor assembly
+<p align="center">
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/CycloidalDrive.png?raw=true" width="150"/>
+</p>
+
+Cycloidal reductor assembly
