@@ -21,7 +21,7 @@ First joint assembly
 
 # Cycloidal reductor assembly
 <p align="center">
- <img src="https://github.com/aSrki/YARA-Hardware/blob/main/CycloidalDrive.png?raw=true" width="150"/>
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/CycloidalDrive.png?raw=true" width="400"/>
 </p>
 
 Cycloidal reductor assembly
