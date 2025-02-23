@@ -1,6 +1,6 @@
 ## Project YARA - Hardware
 <p align="center">
- <img src="https://github.com/aSrki/YARA-Hardware/blob/main/images/YARA.png?raw=true" width="200"/> <img src="https://github.com/aSrki/YARA-Hardware/blob/main/RobotAssembly.png?raw=true" width="350" />
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/images/YARA.png?raw=true" width="200"/> <img src="https://github.com/aSrki/YARA-Hardware/blob/main/images/RobotAssembly.png?raw=true" width="350" />
 </p>
 
 The idea of YARA hardware is for it to be easily changable and possible to build it at home as a DIY project. 
@@ -13,7 +13,7 @@ Here I will show two main assemblies that where designed in such a way for 3D pr
 
 # First joint assembly
 <p align="center">
- <img src="https://github.com/aSrki/YARA-Hardware/blob/main/FirstJointSimplified.png?raw=true" width="400"/>
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/images/FirstJointSimplified.png?raw=true" width="400"/>
 </p>
 
 First joint assembly is designed using 3D printer rollers as an axial bearing. It is certainly not a perfect solution, but it works well and it is a lot cheaper and a lot more accessible than buying an axial bearing. Two large ball bearings are used to reduce radial forces to a minimum. Electronics are in the base of the robot, and are further descibed in firmware submodule.
@@ -21,7 +21,7 @@ First joint assembly is designed using 3D printer rollers as an axial bearing. I
 
 # Cycloidal reductor assembly
 <p align="center">
- <img src="https://github.com/aSrki/YARA-Hardware/blob/main/CycloidalDrive.png?raw=true" width="600"/>
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/images/CycloidalDrive.png?raw=true" width="600"/>
 </p>
 
 Cycloidal reductor was chosen because of its small size and relatively large reduction radtio. It is easy to 3d print and it works well enough. Reductor, as well as robot, was drawn in OnShape. Reductor was designed using `Cycloidal drive` extension, and it was possible to print it without need to change any of the dimensions.
