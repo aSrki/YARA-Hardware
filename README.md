@@ -12,4 +12,6 @@ The 4th and 5th joints need to have smaller NEMA motors bacause of the relativel
 Here I will show two main assemblies that where designed in such a way for 3D printing and cost savings. Are they perfect? Well no... but they are good enough keeping in mind that they are basically free.
 
 # First joint assembly
+<p align="center">
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/FirstJointSimplified.png?raw=true" width="100"/>
 First joint assembly 
