@@ -1,6 +1,6 @@
 ## Project YARA - Hardware
 
-| <img src="https://github.com/aSrki/YARA-Hardware/blob/main/YARA.png?raw=true" width="200" /> | <img src="https://github.com/aSrki/YARA-Hardware/blob/main/RobotAssembly.png?raw=true" width="200" /> |
+ <img src="https://github.com/aSrki/YARA-Hardware/blob/main/YARA.png?raw=true" width="200" /> <img src="https://github.com/aSrki/YARA-Hardware/blob/main/RobotAssembly.png?raw=true" width="350" />
 
 The idea of YARA hardware is for it to be easily changable and possible to build it at home as a DIY project. 
 I tried to make as many parts 3D printable as possible, and anyone who tries to do it themselves should need to buy only a few things. 
